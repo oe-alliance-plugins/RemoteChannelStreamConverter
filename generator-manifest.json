@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "",
+  "description_recipe": "Fetch channels from remote bouquets and make them available locally",
+  "history_source_dir": "RemoteChannelStreamConverter",
+  "internal_package_name": "enigma2-plugin-extensions-remotechannelstreamconverter",
+  "module_dir_name": "RemoteChannelStreamConverter",
+  "output_subdir": "RemoteChannelStreamConverter",
+  "package_name": "enigma2-plugin-extensions-remotechannelstreamconverter",
+  "plugin_src_rel": "RemoteChannelStreamConverter",
+  "python_package": "RemoteChannelStreamConverter",
+  "rdepends_recipe": "python3-shell",
+  "replaces": "",
+  "repo_name": "RemoteChannelStreamConverter",
+  "rrecommends": "",
+  "rreplaces": "enigma2-plugin-extensions-remotestreamconvert"
+}
