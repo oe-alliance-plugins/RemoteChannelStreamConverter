@@ -9,7 +9,7 @@ try:
 	from Components.SystemInfo import BoxInfo
 	IMAGEDISTRO = BoxInfo.getItem("distro")
 	MODEL = BoxInfo.getItem("machinebuild")
-except:
+except ImportError:
 	from boxbranding import getImageDistro, getBoxType
 	IMAGEDISTRO = getImageDistro()
 	MODEL = getBoxType()
@@ -414,7 +414,7 @@ class StreamingChannelFromServerScreen(Screen):
 						else:
 							out = line
 						fp.write(out)
-				except:
+				except Exception:
 					pass
 				fp.close()
 			self.readIndex += 1
@@ -478,7 +478,7 @@ class StreamingChannelFromServerScreen(Screen):
 						fp.write(tmp)
 			fp.close()
 			self.copyFile(target, source)
-		except:
+		except Exception:
 			pass
 
 	def keyGreen(self):
@@ -520,7 +520,7 @@ class StreamingChannelFromServerScreen(Screen):
 						fp.write(line)
 				elif state == 2:
 					fp.write(line)
-		except:
+		except Exception:
 			pass
 		fp.close()
 		if fileValid is not True:
@@ -576,7 +576,7 @@ class StreamingChannelFromServerScreen(Screen):
 					else:
 						bouquetname = tmp[1].split('\n')[0]
 					return bouquetname
-		except:
+		except Exception:
 			pass
 		return ""
 
@@ -644,7 +644,7 @@ class StreamingChannelFromServerScreen(Screen):
 								if result is None:
 									continue
 								self.alternatives.append(result.group(1))
-				except:
+				except Exception:
 					pass
 
 	def downloadAlternativesCallback(self, string):
@@ -672,7 +672,7 @@ class StreamingChannelFromServerScreen(Screen):
 				for line in lines:
 					if '#SERVICE' in line:
 						return line
-			except:
+			except Exception:
 				pass
 		return None
 
