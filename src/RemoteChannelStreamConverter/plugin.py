@@ -531,7 +531,7 @@ class StreamingChannelFromServerScreen(Screen):
 		try:
 			with open(DIR_TMP + 'whitelist_streamrelay') as fd:
 				lines = fd.readlines()
-				self.whitelist = [l.strip() for l in lines]
+				self.whitelist = [x.strip() for x in lines]
 		except OSError:
 			pass
 
