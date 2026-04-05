@@ -27,7 +27,7 @@ from ServiceReference import ServiceReference
 from twisted.internet import reactor
 from twisted.internet.protocol import ClientCreator
 from twisted.protocols.ftp import FTPClient
-from six.moves.urllib.parse import quote
+from urllib.parse import quote
 
 from .FTPDownloader import FTPDownloader
 
