@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plugins 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-05-04 12:44+0200\n"
 "PO-Revision-Date: 2018-07-30 22:17+0200\n"
 "Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
 "Language-Team: none\n"
@@ -18,109 +18,144 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 2.1.1\n"
 
+#: ../plugin.py:136
 msgid "Adress:"
 msgstr "Adresse:"
 
+#: ../plugin.py:632
 msgid "Checking for alternatives"
 msgstr "Recherche d'alternatives"
 
+#: ../plugin.py:212
 msgid "Close"
 msgstr "Fermer"
 
+#: ../plugin.py:257
 msgid "Connection to remote IP ok"
 msgstr "Connexion à l'adresse IP distante OK"
 
+#: ../plugin.py:698
 msgid "Convert remote channel list for streaming"
 msgstr "Converti une liste de chaînes distante en streaming"
 
+#: ../plugin.py:263
 msgid "Could not connect to remote IP"
 msgstr "Impossible de se connecter sur l'adresse IP distante"
 
+#: ../plugin.py:350
 msgid "Download"
 msgstr "Télécharger"
 
+#: ../plugin.py:275 ../plugin.py:321
 msgid "Download from remote failed"
 msgstr "Le téléchargement depuis l'hôte distant a échoué"
 
+#: ../plugin.py:266
 msgid "Downloading remote services"
 msgstr "Téléchargement des services distants"
 
+#: ../plugin.py:156
 msgid "Enter address"
 msgstr "Entrer l'adresse"
 
+#: ../plugin.py:162
 msgid "Enter password"
 msgstr "Entrer le mot de passe"
 
+#: ../plugin.py:159
 msgid "Enter username"
 msgstr "Entrer le nom de l'utilisateur"
 
+#: ../plugin.py:65
 msgid "Exit"
 msgstr "Sortir"
 
+#: ../plugin.py:64
 msgid "FTP Server Editor"
 msgstr "Éditeur du serveur FTP"
 
+#: ../plugin.py:653
 #, python-format
 msgid "FTP reading alternatives %d of %d"
 msgstr "Alternatives de lecture FTP %d de %d"
 
+#: ../plugin.py:326
 #, python-format
 msgid "FTP reading bouquets %d of %d"
 msgstr "Bouquets de lecture FTP %d de %d"
 
+#: ../plugin.py:126 ../plugin.py:139
 msgid "FTPport:"
 msgstr "port FTP:"
 
+#: ../plugin.py:123
 msgid "IP:"
 msgstr "IP:"
 
+#: ../plugin.py:351
 msgid "Invert"
 msgstr "Inverser"
 
+#: ../plugin.py:109
 msgid "Keyboard"
 msgstr "Clavier"
 
+#: ../plugin.py:336 ../plugin.py:656
 msgid "Make your selection"
 msgstr "Faites votre choix"
 
+#: ../plugin.py:491
 msgid "No bouquets selected"
 msgstr "Aucun bouquet choisis"
 
+#: ../plugin.py:66
 msgid "OK"
 msgstr "OK"
 
+#: ../plugin.py:127 ../plugin.py:140
 msgid "Passive:"
 msgstr "Passif:"
 
+#: ../plugin.py:125 ../plugin.py:138
 msgid "Password:"
 msgstr "Mot de passe:"
 
+#: ../plugin.py:687 ../plugin.py:692 ../plugin.py:698
 msgid "Remote channel stream converter"
 msgstr "Convertisseur de chaîne distante en stream"
 
+#: ../plugin.py:216
 msgid "Select a remote server IP first"
 msgstr "Choisir d'abord l'adresse IP du serveur distant"
 
+#: ../plugin.py:203
 msgid "Select bouquets to convert"
 msgstr "Sélectionner les bouquets à convertir"
 
+#: ../plugin.py:214
 msgid "Set server IP"
 msgstr "Définir l'adresse IP du serveur"
 
+#: ../plugin.py:128 ../plugin.py:141
 msgid "Telnetport:"
 msgstr "Port Telnet:"
 
+#: ../plugin.py:248
 msgid "Testing remote connection"
 msgstr "Test de la connexion distante"
 
+#: ../plugin.py:117
 msgid "Use IP"
 msgstr "Utiliser IP"
 
+#: ../plugin.py:115
 msgid "Use address"
 msgstr "Utiliser adresse"
 
+#: ../plugin.py:124 ../plugin.py:137
 msgid "Username:"
 msgstr "Nom utilisateur:"
 
+#: ../plugin.py:383
 msgid "remote of"
 msgstr "télécommande de"

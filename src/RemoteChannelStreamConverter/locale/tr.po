@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-05-04 12:44+0200\n"
 "PO-Revision-Date: 2020-03-30 22:15+0200\n"
 "Last-Translator: esmos <neoatomic@users.noreply.github.com>\n"
 "Language-Team: \n"
@@ -14,109 +14,144 @@ msgstr ""
 "X-Generator: Poedit 1.8.7\n"
 "X-Poedit-SearchPath-0: ../../..\n"
 
+#: ../plugin.py:136
 msgid "Adress:"
 msgstr "Adres:"
 
+#: ../plugin.py:632
 msgid "Checking for alternatives"
 msgstr "Alternatiflerin kontrol edilmesi"
 
+#: ../plugin.py:212
 msgid "Close"
 msgstr "Kapat"
 
+#: ../plugin.py:257
 msgid "Connection to remote IP ok"
 msgstr "Uzaktaki STB'ye bağlantı OK"
 
+#: ../plugin.py:698
 msgid "Convert remote channel list for streaming"
 msgstr "Dış buketleri içe aktar"
 
+#: ../plugin.py:263
 msgid "Could not connect to remote IP"
 msgstr "Uzak STB'ye bağlantı başarısız"
 
+#: ../plugin.py:350
 msgid "Download"
 msgstr "Indir"
 
+#: ../plugin.py:275 ../plugin.py:321
 msgid "Download from remote failed"
 msgstr "Kanal listesi indirilemedi"
 
+#: ../plugin.py:266
 msgid "Downloading remote services"
 msgstr "Kanal listesini indirin"
 
+#: ../plugin.py:156
 msgid "Enter address"
 msgstr "Adresi girin"
 
+#: ../plugin.py:162
 msgid "Enter password"
 msgstr "Şifrenizi girin"
 
+#: ../plugin.py:159
 msgid "Enter username"
 msgstr "Kullanıcı adını girin"
 
+#: ../plugin.py:65
 msgid "Exit"
 msgstr "Kapat"
 
+#: ../plugin.py:64
 msgid "FTP Server Editor"
 msgstr "FTP Sunucusu Düzenleyicisi"
 
+#: ../plugin.py:653
 #, python-format
 msgid "FTP reading alternatives %d of %d"
 msgstr "FTP alternatifleri okuyor %d of %d"
 
+#: ../plugin.py:326
 #, python-format
 msgid "FTP reading bouquets %d of %d"
 msgstr "FTP Buket okudu %d von %d"
 
+#: ../plugin.py:126 ../plugin.py:139
 msgid "FTPport:"
 msgstr "FTP Port:"
 
+#: ../plugin.py:123
 msgid "IP:"
 msgstr "IP:"
 
+#: ../plugin.py:351
 msgid "Invert"
 msgstr "Evirmek"
 
+#: ../plugin.py:109
 msgid "Keyboard"
 msgstr "Klavye"
 
+#: ../plugin.py:336 ../plugin.py:656
 msgid "Make your selection"
 msgstr "Lütfen seçiniz"
 
+#: ../plugin.py:491
 msgid "No bouquets selected"
 msgstr "Favori listesi seçilmedi"
 
+#: ../plugin.py:66
 msgid "OK"
 msgstr "OK"
 
+#: ../plugin.py:127 ../plugin.py:140
 msgid "Passive:"
 msgstr "Pasif:"
 
+#: ../plugin.py:125 ../plugin.py:138
 msgid "Password:"
 msgstr "Şifre:"
 
+#: ../plugin.py:687 ../plugin.py:692 ../plugin.py:698
 msgid "Remote channel stream converter"
 msgstr "Dış buketleri içe aktar"
 
+#: ../plugin.py:216
 msgid "Select a remote server IP first"
 msgstr "İlk önce uzak STB'yi yapılandırın/seçin"
 
+#: ../plugin.py:203
 msgid "Select bouquets to convert"
 msgstr "Dönüşüm için buketler seçin"
 
+#: ../plugin.py:214
 msgid "Set server IP"
 msgstr "Sunucu IP'sini ayarla"
 
+#: ../plugin.py:128 ../plugin.py:141
 msgid "Telnetport:"
 msgstr "Telnet Port:"
 
+#: ../plugin.py:248
 msgid "Testing remote connection"
 msgstr "Bağlantıyı test et"
 
+#: ../plugin.py:117
 msgid "Use IP"
 msgstr "IP kullan"
 
+#: ../plugin.py:115
 msgid "Use address"
 msgstr "Adres kullan"
 
+#: ../plugin.py:124 ../plugin.py:137
 msgid "Username:"
 msgstr "Kullanıcı adı:"
 
+#: ../plugin.py:383
 msgid "remote of"
 msgstr "uzak STB'ye"

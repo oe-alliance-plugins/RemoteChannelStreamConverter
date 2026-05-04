@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: remote channel stream converter Persian Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-05-04 12:44+0200\n"
 "PO-Revision-Date: 2016-05-07 13:07+0200\n"
 "Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
 "Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
@@ -14,109 +14,144 @@ msgstr ""
 "X-Generator: Poedit 1.8.7\n"
 "X-Poedit-SearchPath-0: ../../..\n"
 
+#: ../plugin.py:136
 msgid "Adress:"
 msgstr "آدرس :"
 
+#: ../plugin.py:632
 msgid "Checking for alternatives"
 msgstr ""
 
+#: ../plugin.py:212
 msgid "Close"
 msgstr "بستن"
 
+#: ../plugin.py:257
 msgid "Connection to remote IP ok"
 msgstr "اتصال به آی پی راه دور - وضعیت خوب"
 
+#: ../plugin.py:698
 msgid "Convert remote channel list for streaming"
 msgstr "تبدیل لیست کانال های راه دور به منظور به اجرا درآوردن"
 
+#: ../plugin.py:263
 msgid "Could not connect to remote IP"
 msgstr "عدم اتصال به آی پی راه دور"
 
+#: ../plugin.py:350
 msgid "Download"
 msgstr "دریافت کردن"
 
+#: ../plugin.py:275 ../plugin.py:321
 msgid "Download from remote failed"
 msgstr "دریافت خدمات از راه دور ناموفق بود"
 
+#: ../plugin.py:266
 msgid "Downloading remote services"
 msgstr "در حال دریافت خدمات از راه دور"
 
+#: ../plugin.py:156
 msgid "Enter address"
 msgstr "آدرس را وارد نمایید "
 
+#: ../plugin.py:162
 msgid "Enter password"
 msgstr "رمز ورود را وارد نمایید"
 
+#: ../plugin.py:159
 msgid "Enter username"
 msgstr "نام کاربری را وارد نمایید "
 
+#: ../plugin.py:65
 msgid "Exit"
 msgstr "خارج شدن"
 
+#: ../plugin.py:64
 msgid "FTP Server Editor"
 msgstr "ویرایشگر سرور اف تی پی"
 
+#: ../plugin.py:653
 #, python-format
 msgid "FTP reading alternatives %d of %d"
 msgstr ""
 
+#: ../plugin.py:326
 #, python-format
 msgid "FTP reading bouquets %d of %d"
 msgstr ""
 
+#: ../plugin.py:126 ../plugin.py:139
 msgid "FTPport:"
 msgstr "FTP پورت"
 
+#: ../plugin.py:123
 msgid "IP:"
 msgstr ""
 
+#: ../plugin.py:351
 msgid "Invert"
 msgstr "معکوس کردن"
 
+#: ../plugin.py:109
 msgid "Keyboard"
 msgstr "صفحه کلید"
 
+#: ../plugin.py:336 ../plugin.py:656
 msgid "Make your selection"
 msgstr "انتخاب خود را ایجاد کنید"
 
+#: ../plugin.py:491
 msgid "No bouquets selected"
 msgstr "هیچ دسته ای انتخاب نشده است"
 
+#: ../plugin.py:66
 msgid "OK"
 msgstr "تایید کردن"
 
+#: ../plugin.py:127 ../plugin.py:140
 msgid "Passive:"
 msgstr ""
 
+#: ../plugin.py:125 ../plugin.py:138
 msgid "Password:"
 msgstr "روز ورود :"
 
+#: ../plugin.py:687 ../plugin.py:692 ../plugin.py:698
 msgid "Remote channel stream converter"
 msgstr "مبدل برای کانالهای در حال پخش از راه دور"
 
+#: ../plugin.py:216
 msgid "Select a remote server IP first"
 msgstr "انتخاب آی پی سرور راه دور برای بار اول"
 
+#: ../plugin.py:203
 msgid "Select bouquets to convert"
 msgstr "دسته مورد نظر را منظور تبدیل کردن انتخاب نمایید "
 
+#: ../plugin.py:214
 msgid "Set server IP"
 msgstr "تنظیم آی پی سرور"
 
+#: ../plugin.py:128 ../plugin.py:141
 msgid "Telnetport:"
 msgstr "Telnet پورت "
 
+#: ../plugin.py:248
 msgid "Testing remote connection"
 msgstr "تست سرور راه دور"
 
+#: ../plugin.py:117
 msgid "Use IP"
 msgstr "استفاده از آی پی "
 
+#: ../plugin.py:115
 msgid "Use address"
 msgstr "استفاده از آدرس"
 
+#: ../plugin.py:124 ../plugin.py:137
 msgid "Username:"
 msgstr "نام کاربری :"
 
+#: ../plugin.py:383
 msgid "remote of"
 msgstr ""

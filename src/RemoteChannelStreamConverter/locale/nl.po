@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plugins 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-05-04 12:44+0200\n"
 "PO-Revision-Date: 2018-07-31 10:18+0200\n"
 "Last-Translator: Rob van der Does <RobvanderDoes@Gmail.com>\n"
 "Language-Team: Andy Blackburn, Rob van der Does\n"
@@ -20,109 +20,144 @@ msgstr ""
 "X-Generator: Poedit 2.1.1\n"
 "X-Poedit-SearchPath-0: ..\n"
 
+#: ../plugin.py:136
 msgid "Adress:"
 msgstr "Adres:"
 
+#: ../plugin.py:632
 msgid "Checking for alternatives"
 msgstr "Zoekt naar alternatieven"
 
+#: ../plugin.py:212
 msgid "Close"
 msgstr "Sluit"
 
+#: ../plugin.py:257
 msgid "Connection to remote IP ok"
 msgstr "Verbinding met server OK"
 
+#: ../plugin.py:698
 msgid "Convert remote channel list for streaming"
 msgstr "Converteert de server kanaallijst voor streaming"
 
+#: ../plugin.py:263
 msgid "Could not connect to remote IP"
 msgstr "Kon niet met server verbinden"
 
+#: ../plugin.py:350
 msgid "Download"
 msgstr "Download"
 
+#: ../plugin.py:275 ../plugin.py:321
 msgid "Download from remote failed"
 msgstr "Download van serverbox mislukt"
 
+#: ../plugin.py:266
 msgid "Downloading remote services"
 msgstr "Download kanalen van server"
 
+#: ../plugin.py:156
 msgid "Enter address"
 msgstr "Geef adres"
 
+#: ../plugin.py:162
 msgid "Enter password"
 msgstr "Geef wachtwoord"
 
+#: ../plugin.py:159
 msgid "Enter username"
 msgstr "Geef gebruikersnaam"
 
+#: ../plugin.py:65
 msgid "Exit"
 msgstr "Sluit af"
 
+#: ../plugin.py:64
 msgid "FTP Server Editor"
 msgstr "FTP Server aanpassen"
 
+#: ../plugin.py:653
 #, python-format
 msgid "FTP reading alternatives %d of %d"
 msgstr "FTP leest %d van %d alternatieven "
 
+#: ../plugin.py:326
 #, python-format
 msgid "FTP reading bouquets %d of %d"
 msgstr "FTP leest boeketten %d van %d"
 
+#: ../plugin.py:126 ../plugin.py:139
 msgid "FTPport:"
 msgstr "FTP-poort:"
 
+#: ../plugin.py:123
 msgid "IP:"
 msgstr "IP:"
 
+#: ../plugin.py:351
 msgid "Invert"
 msgstr "Keer om"
 
+#: ../plugin.py:109
 msgid "Keyboard"
 msgstr "Toetsenbord"
 
+#: ../plugin.py:336 ../plugin.py:656
 msgid "Make your selection"
 msgstr "Maak uw keuze"
 
+#: ../plugin.py:491
 msgid "No bouquets selected"
 msgstr "Geen favorieten gekozen"
 
+#: ../plugin.py:66
 msgid "OK"
 msgstr "OK"
 
+#: ../plugin.py:127 ../plugin.py:140
 msgid "Passive:"
 msgstr "Passief:"
 
+#: ../plugin.py:125 ../plugin.py:138
 msgid "Password:"
 msgstr "Wachtwoord:"
 
+#: ../plugin.py:687 ../plugin.py:692 ../plugin.py:698
 msgid "Remote channel stream converter"
 msgstr "Remote channel stream converter"
 
+#: ../plugin.py:216
 msgid "Select a remote server IP first"
 msgstr "Kies eerst een server-IP"
 
+#: ../plugin.py:203
 msgid "Select bouquets to convert"
 msgstr "Kies favorieten om te converteren"
 
+#: ../plugin.py:214
 msgid "Set server IP"
 msgstr "Stel server IP in"
 
+#: ../plugin.py:128 ../plugin.py:141
 msgid "Telnetport:"
 msgstr "Telnetpoort:"
 
+#: ../plugin.py:248
 msgid "Testing remote connection"
 msgstr "Test verbinding met server"
 
+#: ../plugin.py:117
 msgid "Use IP"
 msgstr "Gebruik IP"
 
+#: ../plugin.py:115
 msgid "Use address"
 msgstr "Gebruik adres"
 
+#: ../plugin.py:124 ../plugin.py:137
 msgid "Username:"
 msgstr "Gebruikersnaam:"
 
+#: ../plugin.py:383
 msgid "remote of"
 msgstr "remote van"
